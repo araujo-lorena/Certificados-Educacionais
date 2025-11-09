@@ -21,7 +21,7 @@ Uma semana intensa de aprendizados sobre o mercado de **Tecnologia da Informaç�
 ---
 
 ### 3. Masterclass de Liderança com Gabriel Granjeiro e Diego Ribas | Gran Faculdade 
-Masterclass oferecida pela instituição onde curso minha graduação. A experiência trouxe reflexões valiosas sobre **liderança como soft skill essencial** para o mercado de trabalho, contribuindo diretamente para meu desenvolvimento pessoal e profissional.  
+Masterclass oferecida pela **GRAN Centro Universitário**, instituição onde curso minha graduação. A experiência trouxe reflexões valiosas sobre **liderança como soft skill essencial** para o mercado de trabalho, contribuindo diretamente para meu desenvolvimento pessoal e profissional.  
 
 
 
@@ -35,6 +35,13 @@ Curso introdutório gratuito, no qual busquei entender melhor os fundamentos de 
 ### 5. Prompting Responsável: Maximizar IA no Seu Negócio | Santander Open Academy + Microsoft + Foundez  
 Curso breve e direto sobre o **Microsoft Copilot**, onde pude conhecer aplicações práticas da ferramenta e refletir sobre o potencial de integração da IA em diferentes contextos de negócio.  
  
+
+---
+
+### 6. 🧠 FIAP Summit Connect — Tendências e Usos da Inteligência Artificial
+Durante o **FIAP Summit Connect**, pude me aprofundar nas **tendências e aplicações da Inteligência Artificial** nos setores de **tecnologia e negócios**.  
+O evento proporcionou uma visão atualizada sobre como as IAs estão sendo aplicadas em diferentes contextos corporativos e de inovação, mostrando o impacto real dessas tecnologias na transformação digital e na tomada de decisões estratégicas.  
+Foi uma experiência enriquecedora, que ampliou minha compreensão sobre o papel da **IA como força motriz do futuro da tecnologia**.
 
 ---
 
