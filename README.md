@@ -45,5 +45,18 @@ Foi uma experiência enriquecedora, que ampliou minha compreensão sobre o papel
 
 ---
 
+### 7.Jornada Acadêmica: A Psicologia e o Crime no Mundo Online – Na era dos cliques, nem todo jogo é diversão
+
+*Evento promovido pela instituição onde curso minha Graduação*
+
+**Dia 1— O universo das Bets:o vício digital e seus impactos sociais  Comportamento,ética e Responsabilidade Digital**
+
+O primeiro dia explorou como o ambiente digital influencia comportamentos e vulnerabilidades modernas. A pauta iniciou com o universo das bets, destacando os impactos psicológicos das apostas online e sua relação com vício, impulsividade e cultura digital. Em seguida, a discussão sobre Ética e Responsabilidade Digital abordou limites morais, segurança, comportamento consciente na internet e o papel do indivíduo na construção de um ambiente online mais seguro.
+
+**Dia 2 — Golpes digitais:por dentro do comportamento criminoso e Psicologia Forense e o futuro das investigações digitais**
+
+O segundo dia aprofunda o lado criminoso da vida online. A sessão sobre Golpes Digitais apresentou técnicas atuais usadas por fraudadores, fatores psicológicos explorados nos ataques e formas de prevenção. A palestra de Psicologia Forense e o Futuro das Investigações mostrou como análises comportamentais e evidências digitais estão transformando métodos investigativos, ampliando a capacidade de compreender e combater crimes na era hiperconectada.
+
+---
 ✍️ *Este repositório tem como objetivo registrar minha trajetória de aprendizados, unindo prática e teoria em minha formação como profissional de Tecnologia da Informação.*
 
