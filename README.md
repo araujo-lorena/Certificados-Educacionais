@@ -49,7 +49,7 @@ Foi uma experiência enriquecedora, que ampliou minha compreensão sobre o papel
 
 *Evento promovido pela instituição onde curso minha Graduação*
 
-**Dia 1— O universo das Bets:o vício digital e seus impactos sociais  Comportamento,ética e Responsabilidade Digital**
+**Dia 1— O universo das Bets:o vício digital e seus impactos sociais  e Comportamento,ética e Responsabilidade Digital**
 
 O primeiro dia explorou como o ambiente digital influencia comportamentos e vulnerabilidades modernas. A pauta iniciou com o universo das bets, destacando os impactos psicológicos das apostas online e sua relação com vício, impulsividade e cultura digital. Em seguida, a discussão sobre Ética e Responsabilidade Digital abordou limites morais, segurança, comportamento consciente na internet e o papel do indivíduo na construção de um ambiente online mais seguro.
 
