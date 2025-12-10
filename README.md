@@ -63,6 +63,30 @@ Durante este curso de **Lógica de Programação**, desenvolvi uma base sólida 
 ### 9. Curso de Python | Santander Open Academy
 No curso de Python, construí uma base completa na linguagem, passando pela sua origem, instalação e configuração do ambiente. Estudei os fundamentos da lógica de programação, incluindo variáveis, operadores, estruturas de controle e estruturas de dados. Também trabalhei com funções, tratamento de erros e exceções, importação de módulos e leitura de arquivos.
 
+### 10. 
+*Participei do Bootcamp Febraban Academy 2.0, onde aprofundei meus conhecimentos em cibersegurança e tive minha primeira experiência prática realizando um CTF. Durante a jornada, explorei diferentes áreas da segurança da informação, entendendo funções, ferramentas, habilidades e possibilidades reais de carreira.*
+
+**Dia 1 — DevSecOps**
+
+Conheci o ciclo DevSecOps e como a segurança é integrada em todas as etapas do desenvolvimento de software. Entendi práticas, ferramentas e responsabilidades dessa área, além de visualizar o papel de automação, pipelines seguros e cultura colaborativa na proteção de sistemas.
+
+**Dia 2 — Forense Computacional**
+
+Aprendi como funciona a investigação digital, desde coleta de evidências até análise técnica. Tive noção de ferramentas usadas para examinar dispositivos, rastrear atividades maliciosas e preservar a integridade das evidências. Entendi o papel crítico da forense em incidentes e investigações.
+
+**Dia 3 — Segurança Cibernética Ofensiva (Red Team)**
+
+Tive contato com estratégias e técnicas ofensivas usadas para testar vulnerabilidades. Entendi como funciona o trabalho de pentesters e equipes de Red Team, incluindo metodologias, ferramentas e o raciocínio por trás da exploração de falhas. Essa parte conectou diretamente com a lógica de CTFs.
+
+**Dia 4 — Segurança Cibernética Defensiva (Blue Team)**
+
+Estudei como funciona a proteção ativa de ambientes. Aprendi sobre monitoramento, análise de logs, resposta a incidentes, detecção de ameaças, uso de SIEM e outras ferramentas essenciais para defesa. Entendi como o Blue Team constrói e mantém sistemas resilientes.
+
+**Dia 5 — Governança, Risco e Compliance (GRC)**
+
+Descobri o papel estratégico da GRC dentro das organizações. Estudei políticas, normas, gestão de risco, conformidade regulatória e frameworks amplamente usados no mercado. Entendi como essa área garante que a segurança esteja alinhada aos objetivos do negócio.
+
+
 ---
 ✍️ *Este repositório tem como objetivo registrar minha trajetória de aprendizados, unindo prática e teoria em minha formação como profissional de Tecnologia da Informação.*
 
