@@ -60,7 +60,7 @@ O segundo dia aprofunda o lado criminoso da vida online. A sessão sobre Golpes 
 ### 8. Algoritmos e Lógica de Programação/Udemy 
 Durante este curso de **Lógica de Programação**, desenvolvi uma base sólida nos princípios fundamentais que estruturam qualquer linguagem de programação. Aprendi a analisar problemas de forma lógica, criar algoritmos claros, trabalhar com variáveis, operadores, estruturas de decisão e repetição, além de exercitar o raciocínio algorítmico por meio de práticas constantes. Esse aprendizado consolidou os fundamentos necessários para evoluir no desenvolvimento de software e avançar em outras áreas da computação.
 
-### 9.Curso de Python |Santander -Open Academy
+### 9.Curso de Python|Santander Open Academy
 No curso de Python, construí uma base completa na linguagem, passando pela sua origem, instalação e configuração do ambiente. Estudei os fundamentos da lógica de programação, incluindo variáveis, operadores, estruturas de controle e estruturas de dados. Também trabalhei com funções, tratamento de erros e exceções, importação de módulos e leitura de arquivos.
 
 ---
