@@ -63,8 +63,8 @@ Durante este curso de **Lógica de Programação**, desenvolvi uma base sólida 
 ### 9. Curso de Python | Santander Open Academy
 No curso de Python, construí uma base completa na linguagem, passando pela sua origem, instalação e configuração do ambiente. Estudei os fundamentos da lógica de programação, incluindo variáveis, operadores, estruturas de controle e estruturas de dados. Também trabalhei com funções, tratamento de erros e exceções, importação de módulos e leitura de arquivos.
 
-### 10. 
-*Participei do Bootcamp Febraban Academy 2.0, onde aprofundei meus conhecimentos em cibersegurança e tive minha primeira experiência prática realizando um CTF. Durante a jornada, explorei diferentes áreas da segurança da informação, entendendo funções, ferramentas, habilidades e possibilidades reais de carreira.*
+### 10. Cyber Academy 2025 2°Edição | FEBRABAN
+*Participei do Treinamento Educacional do Laboratório de Segurança Cibernética do Febraban, onde aprofundei meus conhecimentos em cibersegurança e tive minha primeira experiência prática realizando um CTF. Durante a jornada, explorei diferentes áreas da segurança da informação, entendendo funções, ferramentas, habilidades e possibilidades reais de carreira.*
 
 **Dia 1 — DevSecOps**
 
