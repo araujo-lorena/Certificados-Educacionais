@@ -69,7 +69,7 @@ No curso de Python, construí uma base completa na linguagem, passando pela sua 
 
 ---
 
-### 10. Cyber Academy 2025ª Edição | FEBRABAN
+### 10. Cyber Academy 2025 2ª Edição | FEBRABAN
 *Participei do Treinamento Educacional do Laboratório de Segurança Cibernética do Febraban, onde aprofundei meus conhecimentos em cibersegurança e tive minha primeira experiência prática realizando um CTF. Durante a jornada, explorei diferentes áreas da segurança da informação, entendendo funções, ferramentas, habilidades e possibilidades reais de carreira.*
 
 **Dia 1 — DevSecOps**
