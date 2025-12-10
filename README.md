@@ -20,7 +20,7 @@ Uma semana intensa de aprendizados sobre o mercado de **Tecnologia da Informaç�
 
 ---
 
-### 3. Masterclass de Liderança com Gabriel Granjeiro e Diego Ribas | Gran Faculdade 
+### 3. Masterclass de Liderança com Gabriel Granjeiro e Diego Ribas | Gran Centro Universitário  
 Masterclass oferecida pela **GRAN Centro Universitário**, instituição onde curso minha graduação. A experiência trouxe reflexões valiosas sobre **liderança como soft skill essencial** para o mercado de trabalho, contribuindo diretamente para meu desenvolvimento pessoal e profissional.  
 
 
@@ -58,8 +58,10 @@ O primeiro dia explorou como o ambiente digital influencia comportamentos e vuln
 O segundo dia aprofunda o lado criminoso da vida online. A sessão sobre Golpes Digitais apresentou técnicas atuais usadas por fraudadores, fatores psicológicos explorados nos ataques e formas de prevenção. A palestra de Psicologia Forense e o Futuro das Investigações mostrou como análises comportamentais e evidências digitais estão transformando métodos investigativos, ampliando a capacidade de compreender e combater crimes na era hiperconectada.
 
 ### 8. Algoritmos e Lógica de Programação/Udemy 
-
 Durante este curso de **Lógica de Programação**, desenvolvi uma base sólida nos princípios fundamentais que estruturam qualquer linguagem de programação. Aprendi a analisar problemas de forma lógica, criar algoritmos claros, trabalhar com variáveis, operadores, estruturas de decisão e repetição, além de exercitar o raciocínio algorítmico por meio de práticas constantes. Esse aprendizado consolidou os fundamentos necessários para evoluir no desenvolvimento de software e avançar em outras áreas da computação.
+
+### 9.Curso de Python |Santander -Open Academy
+No curso de Python, construí uma base completa na linguagem, passando pela sua origem, instalação e configuração do ambiente. Estudei os fundamentos da lógica de programação, incluindo variáveis, operadores, estruturas de controle e estruturas de dados. Também trabalhei com funções, tratamento de erros e exceções, importação de módulos e leitura de arquivos.
 
 ---
 ✍️ *Este repositório tem como objetivo registrar minha trajetória de aprendizados, unindo prática e teoria em minha formação como profissional de Tecnologia da Informação.*
