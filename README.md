@@ -98,7 +98,7 @@ Participei da Jornada Python 2026, onde tive contato com a linguagem aplicada a 
 **Dia 1 — Projeto de Automação**
 
 Principais resultados: Automação do processo de cadastro de milhares de produtos no Sistema usando Python para ser executado de forma diária e sob demanda.
-Acesse os arquivos do projeto nessa pasta:[Python Power Up]
+Acesse os arquivos do projeto nessa pasta:[Python Power Up](https://github.com/araujo-lorena/jornada_python2026/tree/main/PYTHON%20IA).
 
 **Dia 2 — Projeto de Análise de Dados**
 
