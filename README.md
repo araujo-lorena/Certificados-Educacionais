@@ -92,22 +92,26 @@ Estudei como funciona a proteção ativa de ambientes. Aprendi sobre monitoramen
 
 Descobri o papel estratégico da GRC dentro das organizações. Estudei políticas, normas, gestão de risco, conformidade regulatória e frameworks amplamente usados no mercado. Entendi como essa área garante que a segurança esteja alinhada aos objetivos do negócio.
 
-### 11.Jornada Python 1° Edição 2026|Hashtag Treinamentos
+### 11. Jornada Python 1° Edição 2026 | Hashtag Treinamentos
 Participei da Jornada Python 2026, onde tive contato com a linguagem aplicada a diferentes contextos do mundo real. A experiência me ajudou a consolidar conceitos que antes geravam dúvidas e a enxergar o Python de forma mais prática, entendendo melhor como ele é utilizado em cenários profissionais.
 
-**Dia 1:Projeto de Automação**
+**Dia 1 — Projeto de Automação**
+
 Principais resultados: Automação do processo de cadastro de milhares de produtos no Sistema usando Python para ser executado de forma diária e sob demanda.
 Acesse os arquivos do projeto nessa pasta:[Python Power Up]
 
-**Dia 2:Projeto de Análise de Dados**
+**Dia 2 — Projeto de Análise de Dados**
+
 Principais resultados: Análise de cancelamento de clientes com gráficos e dashboards em Python para identificar as principais causas de cancelamento e possíveis ações de melhoria que reduziram a taxa de 56% para 18%.
 Acesse os arquivos do projeto nessa pasta:[Python Insigths]
 
-**Dia 3:Projeto de Inteligência Artificial**
+**Dia 3 — Projeto de Inteligência Artificial**
+
 Principais resultados: Criação de uma IA capaz de prever a nota de crédito de clientes de uma financeira com 83% de precisão baseado nas características dos clientes.
 Acesse os arquivos do projeto nessa pasta:[Python IA]
 
-<--!**Dia 4:Projeto de Criação de Site/App**
+<!--**Dia 4 — Projeto de Criação de Site/App**
+
 ​Principais resultados: Criação de um chat ao vivo para site e para app usando a ferramenta Flet, tanto front end como backend, feitos em Python.
 Acesse os arquivos do projeto nessa pasta:[Python Dev]-->
 
