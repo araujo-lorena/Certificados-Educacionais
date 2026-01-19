@@ -108,7 +108,7 @@ Acesse os arquivos do projeto nessa pasta:[Python Insigths](https://github.com/a
 **Dia 3 — Projeto de Inteligência Artificial**
 
 Principais resultados: Criação de uma IA capaz de prever a nota de crédito de clientes de uma financeira com 83% de precisão baseado nas características dos clientes.
-Acesse os arquivos do projeto nessa pasta:[Python IA]
+Acesse os arquivos do projeto nessa pasta:[Python IA](https://github.com/araujo-lorena/jornada_python2026/tree/main/PYTHON%20IA).
 
 <!--**Dia 4 — Projeto de Criação de Site/App**
 
