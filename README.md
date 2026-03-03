@@ -92,6 +92,8 @@ Estudei como funciona a proteção ativa de ambientes. Aprendi sobre monitoramen
 
 Descobri o papel estratégico da GRC dentro das organizações. Estudei políticas, normas, gestão de risco, conformidade regulatória e frameworks amplamente usados no mercado. Entendi como essa área garante que a segurança esteja alinhada aos objetivos do negócio.
 
+---
+
 ### 11. Jornada Python 1° Edição 2026 | Hashtag Treinamentos
 Participei da Jornada Python 2026, onde tive contato com a linguagem aplicada a diferentes contextos do mundo real. A experiência me ajudou a consolidar conceitos que antes geravam dúvidas e a enxergar o Python de forma mais prática, entendendo melhor como ele é utilizado em cenários profissionais.
 
