@@ -122,8 +122,8 @@ Acesse os arquivos do projeto nessa pasta:[Python Dev]-->
 ### 12. Aula Magna 2026:Decodificando o Sucesso na Carreira
 *Com  Gabriel Granjeiro e  Paula Boarin*
 
-Participei da Aula Magna com Paula Boarin, autora do **Livro Secreto da Carreira**, e Gabriel Granjeiro, **CEO do Gran Cursos Online** e reconhecido na lista Forbes Under 30.
-A palestra trouxe uma visão realista sobre crescimento profissional, mostrando que sucesso não é apenas esforço ou oportunidade — é construção estratégica ao longo do tempo.Destacaram-se os desafios enfrentados no início da trajetória empreendedora do GRAN, incluindo períodos de instabilidade financeira e renúncias pessoais.A palestra destacou a importância da organização do tempo, da construção de marca pessoal e da constância como pilares para uma trajetória sólida e consistente.A experiência foi inspiradora ao mostrar que resultados expressivos carregam um preço proporcional e que consistência, visão estratégica e responsabilidade são pilares para uma carreira sólida.
+Participei da Aula Magna com Paula Boarin, autora do **Livro Secreto da Carreira:Aquilo que não te contaram, mas você deveria saber**, e Gabriel Granjeiro, **CEO do Gran Cursos Online** e reconhecido na lista Forbes Under 30.
+A palestra trouxe uma visão realista sobre crescimento profissional, mostrando que sucesso não é apenas esforço ou oportunidade — é construção estratégica ao longo do tempo. Destacaram-se os desafios enfrentados no início da trajetória empreendedora do GRAN, incluindo períodos de instabilidade financeira e renúncias pessoais. A palestra destacou a importância da organização do tempo, da construção de marca pessoal e da constância como pilares para uma trajetória sólida e consistente. A experiência foi inspiradora ao mostrar que resultados expressivos carregam um preço proporcional e que consistência, visão estratégica e responsabilidade são pilares para uma carreira sólida.
 
 ---
 ✍️ *Este repositório tem como objetivo registrar minha trajetória de aprendizados, unindo prática e teoria em minha formação como profissional de Tecnologia da Informação.*
