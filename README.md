@@ -93,7 +93,16 @@ Estudei como funciona a proteção ativa de ambientes. Aprendi sobre monitoramen
 Descobri o papel estratégico da GRC dentro das organizações. Estudei políticas, normas, gestão de risco, conformidade regulatória e frameworks amplamente usados no mercado. Entendi como essa área garante que a segurança esteja alinhada aos objetivos do negócio.
 
 ---
-### 11. Aula Magna 2026:Decodificando o Sucesso na Carreira
+
+### 11. Jornada Python 1° Edição 2026 | Hashtag Treinamentos
+
+Participei da Jornada Python 2026, onde tive contato com a linguagem aplicada a diferentes contextos do mundo real. A experiência me ajudou a consolidar conceitos que antes geravam dúvidas e a enxergar o Python de forma mais prática, entendendo melhor como ele é utilizado em cenários profissionais.
+
+###### Link dos projetos:
+
+---
+
+### 12. Aula Magna 2026:Decodificando o Sucesso na Carreira
 *Com  Gabriel Granjeiro e  Paula Boarin*
 
 Participei da Aula Magna com Paula Boarin, autora do **Livro Secreto da Carreira:Aquilo que não te contaram, mas você deveria saber**, e Gabriel Granjeiro, **CEO do Gran Cursos Online** e reconhecido na lista Forbes Under 30.
