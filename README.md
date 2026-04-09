@@ -98,7 +98,7 @@ Descobri o papel estratégico da GRC dentro das organizações. Estudei polític
 
 Participei da Jornada Python 2026, onde tive contato com a linguagem aplicada a diferentes contextos do mundo real. A experiência me ajudou a consolidar conceitos que antes geravam dúvidas e a enxergar o Python de forma mais prática, entendendo melhor como ele é utilizado em cenários profissionais.
 
-###### Link dos projetos:
+###### Link dos projetos:https://github.com/araujo-lorena/jornada_python2026.git
 
 ---
 
